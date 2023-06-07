@@ -19,3 +19,6 @@ forge-cache/
 out/
 forge-coverage/
 lcov.info
+
+Tutorial.txt
+_trash_test
